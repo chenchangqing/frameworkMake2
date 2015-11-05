@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "23C8F8AB700F979563AD9A5A4859917EE4FCC67A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BA2D7E511B1063982306D38646411ED2E75047F8" : 0,
+    "23C8F8AB700F979563AD9A5A4859917EE4FCC67A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F7942F4E-FC1D-46FD-891C-D56AC40E2EC8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BA2D7E511B1063982306D38646411ED2E75047F8" : "..\/%E6%95%99%E7%A8%8Bdemo\/YohunlUtilsLib",
+    "23C8F8AB700F979563AD9A5A4859917EE4FCC67A" : "frameworkMake2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestFrameworkDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestFrameworkDemo\/TestFrameworkDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chenchangqing\/frameworkMake2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "23C8F8AB700F979563AD9A5A4859917EE4FCC67A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yohunl\/YohunlUtilsLib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BA2D7E511B1063982306D38646411ED2E75047F8"
+    }
+  ]
+}

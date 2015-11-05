@@ -1,0 +1,13 @@
+platform :ios, '7.0'
+inhibit_all_warnings!
+
+target 'ZohunlUtilsLib' do
+pod 'AFNetworking'
+end
+
+target 'ZohunlUtilsLibTests' do
+end
+
+use_frameworks!
+
+

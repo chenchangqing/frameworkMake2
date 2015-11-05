@@ -1,0 +1,10 @@
+framework module ZohunlUtilsLib {
+  umbrella header "ZohunlUtilsLib.h"
+
+  export *
+  module * { export * }
+}
+
+module ZohunlUtilsLib.Swift {
+    header "ZohunlUtilsLib-Swift.h"
+}
